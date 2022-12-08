@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../brrr-1/romi"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
